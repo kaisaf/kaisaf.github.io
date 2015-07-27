@@ -1,0 +1,27 @@
+title: Kaisa Filppula
+description: My Blog // Kaisa Filppula
+
+url:
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+highlighter: pygments
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: https://www.linkedin.com/in/kaisafilppula
+ #- title: Contact
+   #url: /
+
+social:
+   github: kaisaf
+   #twitter:
+   #facebook:
+   email: kaisa.filppula@gmail.com
+
+google_analytics:

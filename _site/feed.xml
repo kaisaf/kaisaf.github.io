@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaisa Filppula</title>
+    <description>My Blog // Kaisa Filppula</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 27 Jul 2015 00:29:31 -0400</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2015 00:29:31 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      
+      <item>
+        <title>My First Week at Byte Academy</title>
+        <description>&lt;p&gt;&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;I&lt;/span&gt;want to be a programmer. It took me
+a while to figure it out, but now I am sure. So sure, that I signed up for a 12-week programming bootcamp at &lt;a href=&quot;http://byteacademy.co/&quot;&gt;Byte Academy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was prepared; I taught myself Java, some HMTL/CSS and a little bit of Ruby before starting. I also finished all the prep-work they gave us before the class started. Still, it&amp;#39;s tough. There was no introduction to Python, the language we are learning the first four weeks, -we were expected to have a solid grasp of it already and just jump right in to complex problems.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/img/byteview.jpg&quot; alt=&quot;&quot;&gt;
+  &lt;figcaption&gt;Byte Academy views&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It feels fantastic to be a student again. It&amp;#39;s been more than ten years since I walked out of
+a business school with a master&amp;#39;s degree in my hand. That degree and all the experience gained in a bunch of different jobs during my studies and the following years brought me where I am at right now. Everything changes and nothing stands still. I can do this.&lt;/p&gt;
+</description>
+        
+          <description>&lt;p&gt;&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;I&lt;/span&gt;want to be a programmer. It took me
+a while to figure it out, but now I am sure. So sure, that I signed up for a 12-week programming bootcamp at &lt;a href=&quot;http://byteacademy.co/&quot;&gt;Byte Academy&lt;/a&gt;.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 26 Jul 2015 20:00:01 -0400</pubDate>
+        <link>/blog/my-first-blog-post/</link>
+        <guid isPermaLink="true">/blog/my-first-blog-post/</guid>
+        
+        
+      </item>
+      
+    
+  </channel>
+</rss>
