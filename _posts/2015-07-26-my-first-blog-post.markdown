@@ -4,8 +4,7 @@ title:  "My First Week at Byte Academy"
 date:   2015-07-27 00:00:01
 ---
 
-<p class="intro"><span class="dropcap">I</span>want to be a programmer. It took me
-a while to figure it out, but now I am sure. So sure, that I signed up for a 12-week programming bootcamp at <a href="http://byteacademy.co/">Byte Academy</a>.
+<p class="intro"><span class="dropcap">I</span> want to be a programmer. It took me a while to figure it out, but now I am sure. So sure, that I signed up for a 12-week programming bootcamp at <a href="http://byteacademy.co/">Byte Academy</a>. 
 
 
 I was prepared; I taught myself Java, some HMTL/CSS and a little bit of Ruby before starting. I also finished all the prep-work they gave us before the class started. Still, it's tough. There was no introduction to Python, the language we are learning the first four weeks, -we were expected to have a solid grasp of it already and just jump right in to complex problems.
